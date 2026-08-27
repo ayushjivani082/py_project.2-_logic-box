@@ -55,11 +55,11 @@ python logic_box.py
 
 🎥 Project Explanation Video 
 
-Video Link:
+Video Link :
 
 🔗 GitHub Repository
 
-Repository Link: 
+Repository Link : 
 
 📷 Project Output
 
