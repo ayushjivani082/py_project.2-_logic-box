@@ -1,4 +1,5 @@
 # py_project.2-_logic-box
+
 Logic Box - Pattern Generator & Number Analyzer
 
 A simple Python project that demonstrates loops, conditions, validation, and menu-driven programming.
@@ -6,7 +7,11 @@ A simple Python project that demonstrates loops, conditions, validation, and men
 👨‍💻 Project Details
 
 Project Name: Logic Box
+
+
 Created By: Ayush Jivani
+
+
 Language: Python
 
 📌 Features
