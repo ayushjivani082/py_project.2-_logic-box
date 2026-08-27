@@ -53,7 +53,7 @@ python logic_box.py
 
 5. Select an option from the menu.
 
-🎥 Project Explanation Video
+🎥 Project Explanation Video 
 
 Video Link:
 
