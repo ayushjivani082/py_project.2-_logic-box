@@ -60,7 +60,7 @@ python logic_box.py
 
 🎥 Project Explanation Video 
 
-Video Link :
+Video Link : https://drive.google.com/file/d/1nOazMs7868dfTH7ivf3reNqTZvXfa_0a/view?usp=drive_link
 
 🔗 GitHub Repository
 
