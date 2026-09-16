@@ -64,7 +64,7 @@ Video Link : https://drive.google.com/file/d/1nOazMs7868dfTH7ivf3reNqTZvXfa_0a/v
 
 🔗 GitHub Repository
 
-Repository Link : https://github.com/ayushjivani082/py_project.2-_logic-box/blob/main/py_project.2%20Logic%20box.py
+Repository Link : https://github.com/ayushjivani082/py_project.2-_logic-box/blob/f7a7070cbf581d07751f6d897ea783bb1f2b433b/2%20Logic%20box.py
 
 📷 Project Output
 
