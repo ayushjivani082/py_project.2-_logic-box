@@ -1,28 +1,19 @@
-# ==================WELCOME================================================
 
-#==================CREAT BY : AYUSH  JIVANI=======================================
+
+# CREAT BY : AYUSH  JIVANI
 
 # LOGIC BOX - PATTERN GENERATOR & NUMBER ANALYZER
 
-# =========================================================================
-
-# Concepts covered:
-# input() , print() , variables , int() , if/elif/else , for , while ,
-# range() , nested loops , break , continue , pass , function ,
-# menu-driven program ,, validation and basic error handling.
-
-#===========================================================================
-
+
 def title(text):
     print("\n" + "=" * 65)
     print(text.center(65))
     print("=" * 65)
-
-#===========================================================================
+
 
 # PATTERN GENERATOR
 
-#==========================================================================
+
 def pattern_generator():
     title("PATTERN GENERATOR")
 
@@ -80,9 +71,8 @@ def pattern_generator():
                 continue
 
 
-# ==============================================================
+
 # NUMBER ANALYZER
-# ==============================================================
 
 def number_analyzer():
     title("NUMBER ANALYZER")
@@ -140,9 +130,9 @@ def number_analyzer():
             continue
 
 
-# ==============================================================
+
 # MAIN MENU
-# ==============================================================
+
 
 def main():
     title("WELCOME TO LOGIC BOX")
