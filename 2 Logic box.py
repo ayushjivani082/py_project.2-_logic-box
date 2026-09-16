@@ -4,12 +4,14 @@
 
 # LOGIC BOX - PATTERN GENERATOR & NUMBER ANALYZER
 
-
+
+
 def title(text):
     print("\n" + "=" * 65)
     print(text.center(65))
     print("=" * 65)
-
+
+
 
 # PATTERN GENERATOR
 
