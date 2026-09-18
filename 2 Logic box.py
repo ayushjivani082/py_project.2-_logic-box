@@ -38,8 +38,8 @@ def pattern_generator():
 
                 title("GENERATED PATTERN")
 
-                # Nested loops: outer loop controls rows,
-                # inner loop controls columns/items in each row.
+               
+               
                 if choice == "1":
                     for i in range(1, rows + 1):
                         for j in range(i):
@@ -90,10 +90,10 @@ def number_analyzer():
             print("\nNumber Analysis:")
             print("-" * 65)
 
-            # range() is used to generate numbers in the requested range.
+            
             for number in range(start, end + 1):
 
-                # continue demonstrates skipping a selected number.
+                
                 if number == 0:
                     print("Number 0 is neither Odd nor Even for this project.")
                     total += number
@@ -113,7 +113,7 @@ def number_analyzer():
             print("Total Odd Numbers :", odd_count)
             print("Sum of all numbers:", total)
 
-            # pass is used as a placeholder for future analysis features.
+            
             if total >= 0:
                 pass
 
